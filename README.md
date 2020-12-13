@@ -1,4 +1,4 @@
 # Roll Dice
 
- This app is made using viewmodel architecture.
+ This app is made using viewmodel.
   
